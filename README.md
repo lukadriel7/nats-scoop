@@ -1,4 +1,4 @@
-# Ory Scoop Bucket
+# Nats Scoop Bucket
 
 Use [Scoop](https://scoop.sh) to install Nats software!
 
