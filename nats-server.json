@@ -1,13 +1,13 @@
 {
-  "version": "2.9.8",
+  "version": "2.9.14",
   "architecture": {
     "32bit": {
-      "url": "https://github.com/nats-io/nats-server/releases/download/v2.9.8/nats-server-v2.9.8-windows-386.zip",
-      "bin": ["nats-server-v2.9.8-windows-386/nats-server.exe"]
+      "url": "https://github.com/nats-io/nats-server/releases/download/v2.9.14/nats-server-v2.9.14-windows-386.zip",
+      "bin": ["nats-server-v2.9.14-windows-386/nats-server.exe"]
     },
     "64bit": {
-      "url": "https://github.com/nats-io/nats-server/releases/download/v2.9.8/nats-server-v2.9.8-windows-amd64.zip",
-      "bin": ["nats-server-v2.9.8-windows-amd64/nats-server.exe"]
+      "url": "https://github.com/nats-io/nats-server/releases/download/v2.9.14/nats-server-v2.9.14-windows-amd64.zip",
+      "bin": ["nats-server-v2.9.14-windows-amd64/nats-server.exe"]
     }
   },
   "homepage": "https://nats.io/"
